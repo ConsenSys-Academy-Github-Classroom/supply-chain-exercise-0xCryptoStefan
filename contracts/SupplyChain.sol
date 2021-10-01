@@ -111,7 +111,7 @@ contract SupplyChain {
 
   // Implement this buyItem function. 
   // 1. it should be payable in order to receive refunds            DONE
-  // 2. this should transfer money to the seller,                   ?
+  // 2. this should transfer money to the seller,                   DONE?
   // 3. set the buyer as the person who called this transaction,    DONE?
   // 4. set the state to Sold.                                      DONE
   // 5. this function should use 3 modifiers to check 
